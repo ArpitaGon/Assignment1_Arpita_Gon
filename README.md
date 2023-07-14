@@ -4,7 +4,7 @@
 Visual studio Code
 
 # Programming languages
-HTML5, CSS, JavaScript
+HTML5, CSS
 
 # Screenshot of the Application
 <img width="1199" alt="Screenshot 2023-07-14 at 10 15 31 AM" src="https://github.com/ArpitaGon/Basic-HTML/assets/108892284/e40150a4-771f-47a5-b76e-7930ec1dadc3">
